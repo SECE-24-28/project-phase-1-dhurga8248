@@ -1,0 +1,2 @@
+s1,sita,lab computers not working
+s2,anu,wifi not connected
